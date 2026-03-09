@@ -21,8 +21,7 @@ Google Drive Folder
 → Gemini Embeddings
 → Pinecone Vector Database
 ## Architecture Diagram
-
-![Architecture](architecture.png)
+<img width="1536" height="1024" alt="architecture png" src="https://github.com/user-attachments/assets/913c7cef-9c8a-4d5d-a89e-2528711c2cda" />
 
 Query Pipeline:
 
